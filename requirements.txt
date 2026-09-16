@@ -1,2 +1,15 @@
+fastapi
+uvicorn
+streamlit
+networkx
+fpdf2
+folium
+streamlit-folium
+pandas
+transformers
+torch
+pydantic
+requests
+python-multipart
 python-whois
 tldextract
